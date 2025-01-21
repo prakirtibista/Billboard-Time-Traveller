@@ -17,7 +17,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/billboard-time-traveler.git
+git clone https://github.com/prakirtibista/billboard-time-traveler.git
 cd billboard-time-traveler
 
 Install the required libraries:
@@ -38,7 +38,7 @@ Run the script:
 
 bash
 
-python time_travel_playlist.py
+python main.py
 
 
 📅 Usage
